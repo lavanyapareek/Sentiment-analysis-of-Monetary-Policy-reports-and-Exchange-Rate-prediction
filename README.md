@@ -6,13 +6,6 @@ This project investigates the impact of sentiments extracted from the Reserve Ba
 
 The study incorporates lagged effects of monetary policy sentiments and evaluates their relationship with exchange rate movements through robust regression analysis. The findings contribute to the understanding of how monetary policy communications affect financial markets and suggest pathways for improving sentiment analysis models for more accurate economic forecasting.
 
-## Authors
-
-- **Dipan Nath** (Roll No.: 241270013) - [dnath24@iitk.ac.in](mailto:dnath24@iitk.ac.in)
-- **Lalit Kumar Upadhyay** (Roll No.: 241270015) - [lalitu24@iitk.ac.in](mailto:lalitu24@iitk.ac.in)
-- **Lavanya Pareek** (Roll No.: 241270041) - [lavanyap24@iitk.ac.in](mailto:lavanyap24@iitk.ac.in)
-- **Rajdeep Sinha Roy** (Roll No.: 241270042) - [rajdeepsr24@iitk.ac.in](mailto:rajdeepsr24@iitk.ac.in)
-
 ## Abstract
 
 This project explores the relationship between sentiments conveyed in RBI’s monetary policy reports and exchange rate movements. By leveraging LLMs and FinBERT, we extract sentiment indicators like Sentiment Subjectivity, Sentiment Polarity, and Sentiment Uncertainty. The analysis reveals significant lagged effects of monetary policy sentiments on the exchange rate, aligning with the theory that information transmission through media impacts economic variables over time.
